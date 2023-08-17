@@ -9,7 +9,7 @@
 <h3 align="left">
 &nbsp; Sou desenvolvedora front-end em apredizagem.
 <br><br>
-Possuo 
+ Possuo 
 </h3>
 
 ### 💻 &nbsp; Linguagens
