@@ -12,8 +12,6 @@
 Possuo 
 </h3>
 
-## 🛠 Tech Stack
-
 ### 💻 &nbsp; Linguagens
 
 #### Front-end
