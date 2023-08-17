@@ -7,11 +7,10 @@
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
 <h3 align="left">
-👨🏻‍💻 &nbsp; Sou desenvolvedor front-end em apredizagem.
+&nbsp; Sou desenvolvedor front-end em apredizagem.
 <br><br>
 Possuo 
 </h3>
-
 
 <br><br><br><br>
 
