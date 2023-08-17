@@ -12,8 +12,6 @@
 Possuo 
 </h3>
 
-<br><br><br><br>
-
 ## 🛠 Tech Stack
 
 ### 💻 &nbsp; Linguagens
